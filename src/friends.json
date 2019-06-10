@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "name": "Kittens",
+    "image": "https://images.pexels.com/photos/45170/kittens-cat-cat-puppy-rush-45170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea",
+    "score": false
+  },
+  
+  {
+    "id": 2,
+    "name": "Elephant",
+    "image": "https://images.pexels.com/photos/66898/elephant-cub-tsavo-kenya-66898.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor",
+    "score": false
+  },
+  {
+    "id": 3,
+    "name": "Tiger",
+    "image": "https://images.pexels.com/photos/39629/tiger-tiger-baby-tigerfamile-young-39629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 4,
+    "name": "Koi Fish",
+    "image": "https://images.pexels.com/photos/213399/pexels-photo-213399.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "occupation": "Boy Genius",
+    "location": "A Secret Laboratory"
+  },
+  {
+    "id": 5,
+    "name": "Donkey",
+    "image": "https://images.pexels.com/photos/208821/pexels-photo-208821.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "occupation": "A Cowardly Dog",
+    "location": "Nowhere, Kansas"
+  },
+  {
+    "id": 6,
+    "name": "Bunny",
+    "image": "https://images.pexels.com/photos/33152/european-rabbits-bunnies-grass-wildlife.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "occupation": "Student",
+    "location": "Bluffington"
+  },
+  {
+    "id": 7,
+    "name": "Chicken",
+    "image": "https://images.pexels.com/photos/1216482/pexels-photo-1216482.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "name": "Penguin",
+    "image": "https://images.pexels.com/photos/52509/penguins-emperor-antarctic-life-52509.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "occupation": "Ladies Man",
+    "location": "Aron City"
+  },
+  {
+    "id": 9,
+    "name": "Zebra",
+    "image": "https://images.pexels.com/photos/247376/pexels-photo-247376.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "occupation": "Adventurer",
+    "location": "California"
+  },
+  {
+    "id": 10,
+    "name": "Baboon",
+    "image": "https://images.pexels.com/photos/60023/baboons-monkey-mammal-freeze-60023.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&w=500",
+    "occupation": "Cashier",
+    "location": "O-Town, California"
+  },
+  {
+    "id": 11,
+    "name": "Pupper",
+    "image": "https://images.pexels.com/photos/434090/pexels-photo-434090.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "occupation": "Superhero",
+    "location": "Earth"
+  },
+  {
+    "id": 12,
+    "name": "Rhino",
+    "image": "https://images.pexels.com/photos/631292/pexels-photo-631292.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "occupation": "Ahhhh! A Real Monster!",
+    "location": "Under a City Dump"
+  },
+  {
+    "id": 13,
+    "name": "Gorilla",
+    "image": "https://images.pexels.com/photos/39571/gorilla-silverback-animal-silvery-grey-39571.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&w=500",
+    "occupation": "Adventurer",
+    "location": "California"
+  },
+  {
+    "id": 14,
+    "name": "Cows",
+    "image": "https://images.pexels.com/photos/33550/cows-curious-cattle-agriculture.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "occupation": "Cashier",
+    "location": "O-Town, California"
+  },
+  {
+    "id": 15,
+    "name": "Duck",
+    "image": "https://images.pexels.com/photos/86731/duck-white-ducks-animal-86731.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&w=500",
+    "occupation": "Superhero",
+    "location": "Earth"
+  },
+  {
+    "id": 16,
+    "name": "Sheep",
+    "image": "https://images.pexels.com/photos/97317/pexels-photo-97317.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&w=500",
+    "occupation": "Ahhhh! A Real Monster!",
+    "location": "Under a City Dump"
+  }
+
+
+
+
+]
